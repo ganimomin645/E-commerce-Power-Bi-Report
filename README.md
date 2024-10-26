@@ -17,3 +17,5 @@ Time Series Analysis: Monthly and yearly sales trends to identify growth pattern
 KPIs & Targets: Visuals displaying performance against sales targets and key business metrics (e.g., conversion rate, average basket size).
 
 Filters and Slicers: Interactive slicers for dynamic data exploration by product, region, and customer segment.
+
+![image](https://github.com/user-attachments/assets/4c3659da-4076-4654-ab29-ac24871c2bfb)
